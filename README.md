@@ -1,1 +1,1 @@
-# find-inputs-for-sum
+#Python script to find inputs for the sum.
